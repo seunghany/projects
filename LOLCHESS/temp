@@ -1,0 +1,70 @@
+<table>
+<tr>
+<td class="type">
+<div class="tft-hexagon-image tft-hexagon-image--24 tft-hexagon-image--default">
+<img alt="Mage" onerror="this.src = '//cdn.lolchess.gg/images/tft/traiticons-white/trait_icon_unknown.png';" src="//cdn.lolchess.gg/images/tft/traiticons-white/svg/Mage.svg"/>
+</div>
+<span class="align-middle">Mage</span>
+</td>
+<td class="content">
+<div class="guide-champion-detail__synergy__champions">
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/Brand" href="/champions/set4.5/brand">
+<div class="guide-champion-item cost-1">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Brand.png" width="44"/>
+<span class="cost">$1</span>
+<span class="name">Brand</span>
+</div>
+</a>
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/TwistedFate" href="/champions/set4.5/twistedfate">
+<div class="guide-champion-item cost-1">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Twistedfate.png" width="44"/>
+<span class="cost">$1</span>
+<span class="name">TwistedFate</span>
+</div>
+</a>
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/Annie" href="/champions/set4.5/annie">
+<div class="guide-champion-item cost-2">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Annie.png" width="44"/>
+<span class="cost">$2</span>
+<span class="name">Annie</span>
+</div>
+</a>
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/Lulu" href="/champions/set4.5/lulu">
+<div class="guide-champion-item cost-2">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Lulu.png" width="44"/>
+<span class="cost">$2</span>
+<span class="name">Lulu</span>
+</div>
+</a>
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/Veigar" href="/champions/set4.5/veigar">
+<div class="guide-champion-item cost-3">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Veigar.png" width="44"/>
+<span class="cost">$3</span>
+<span class="name">Veigar</span>
+</div>
+</a>
+<a class="d-inline-block mb-2" data-toggle="tooltip" data-tooltip-url="https://lolchess.gg/tooltip/champion/set4.5/AurelionSol" href="/champions/set4.5/aurelionsol">
+<div class="guide-champion-item cost-4">
+<img class="mr-1" src="//cdn.lolchess.gg/images/tft/champions/set4.5/Aurelionsol.png" width="44"/>
+<span class="cost">$4</span>
+<span class="name">Aurelion Sol</span>
+</div>
+</a>
+</div>
+<div class="text-gray">
+<strong class="text-black d-block">Mages cast twice and have modified Spell Power.</strong>
+<div class="guide-champion-detail__synergy__stat mt-2">
+<strong class="bg-tft--mage">3</strong> 80% of their total Spell Power
+                        </div>
+<div class="guide-champion-detail__synergy__stat mt-2">
+<strong class="bg-tft--mage">5</strong> 105% of their total Spell Power
+                        </div>
+<div class="guide-champion-detail__synergy__stat mt-2">
+<strong class="bg-tft--mage">7</strong> 135% of their total Spell Power
+                        </div>
+</div>
+</td>
+</tr>
+</table>
+2
+None
